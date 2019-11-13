@@ -3,6 +3,7 @@ Disney Streaming Services JSON Viewer Assignment
 
 ## Summary
 - Developed and Built with Visual Studio 2017
+- Total Time Taken: ~15 hours
 - External C++ libraries used: GLFW3, Glew, Glut, JsonCPP, FreeImage
 - EXE binary can be found on DropBox at: https://www.dropbox.com/sh/qp8q0w1ihere4mr/AABal2uPn6q_K1g4C09TO-yja?dl=0
 - EXE zip file can be found here: https://www.dropbox.com/s/u1zsh9ds4v0nf97/TionThomas_DisneyStreamingAssignment_EXE.zip?dl=1
