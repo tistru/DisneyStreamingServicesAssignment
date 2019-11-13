@@ -1,0 +1,7 @@
+﻿  JSONParser.cpp
+c:\users\idealty\documents\jobs\disney streaming services\disneystreamingservicesassignment\disneystreamingservicesassignment\jsonparser.cpp(170): warning C4018: '<': signed/unsigned mismatch
+  Main.cpp
+  Generating code
+  All 281 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  DisneyStreamingServicesAssignment.vcxproj -> C:\Users\Idealty\Documents\Jobs\Disney Streaming Services\DisneyStreamingServicesAssignment\Release\DisneyStreamingServicesAssignment.exe
