@@ -8,8 +8,8 @@ JSONParser::JSONParser(const char * inputFilePath) {
 	currentNodeValue = "";
 
 	MLBStatsFile.open(inputFilePath);
-	parsedMLBStats.open("output/MLBOutput.txt");
-	treeOutput.open("output/JSONTree.txt");
+	parsedMLBStats.open("MLBOutput.txt");
+	treeOutput.open("JSONTree.txt");
 
 	gameCounter = 0;
 
@@ -81,7 +81,7 @@ bool JSONParser::ParseJsonFile() {
 
 	if (!parsingSuccessful)
 	{
-		std::cout << errors << std::endl;
+		std::cout << "JSON file parsing failed. Make sure the input JSON file is in the local directory: " << errors << std::endl;
 		return false;
 	}
 
